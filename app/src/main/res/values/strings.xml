@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_here_to_increment_by_1">Click here to increment by 1</string>
+    <string name="amount">Amount</string>
+    <string name="_0">0%</string>
+    <string name="total_glasses_today">Total Glasses Today</string>
+</resources>
